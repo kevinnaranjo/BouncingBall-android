@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bouncing Ball</string>
+    <string name="dificultad">Please choose starting level:</string>
+    <string name="facil">Easy</string>
+    <string name="medio">Standard</string>
+    <string name="dificil">Dificult</string>
+    <string name="ayuda">Help</string>
+    <string name="textoAyuda">
+        The game is about prevent the ball from falling to the the ground by hitting it with your finger \n\n
+        To push the ball in a specific direction, You have to touch the screen on the oposite direction
+        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Cheer up !
+    </string>
+    <string name="btnVolver">Back</string>
+    <string name="highest">Highest: </string>
+    <string name="endMessage">Congratulions !</string>
+    <string name="youscored">You scored </string>
+    <string name="point">points</string>
+    <string name="newRecord">NEW RECORD !</string>
+</resources>

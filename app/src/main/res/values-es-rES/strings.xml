@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pelota Saltarina</string>
+    <string name="dificultad">Elige un nivel de dificultad:</string>
+    <string name="facil">Fácil</string>
+    <string name="medio">Normal</string>
+    <string name="dificil">Difícil</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="textoAyuda">
+        El objetivo del juego es evitar que la pelota caiga al suelo, tocando la pelota con el dedo \n\n
+        Para empujar la pelota en una dirección concreta, pulsaremos en la pantalla en la dirección contraria
+        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Keep going !
+    </string>
+    <string name="btnVolver">Volver</string>
+    <string name="highest">Record: </string>
+    <string name="endMessage">! Enhorabuena !</string>
+    <string name="point">puntos</string>
+    <string name="youscored">Conseguiste </string>
+    <string name="newRecord">! NUEVO RECORD !</string>
+</resources>
